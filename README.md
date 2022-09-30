@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+Vue Api Challenge
+---
+I used the Dog Api at this project. My data pulled with fetch. [Dog Api Link](https://dog.ceo/dog-api/)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+First Image:
+![1](https://user-images.githubusercontent.com/76450122/193337393-709a3d24-df40-40d0-b279-a8c10c448e4c.jpg)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+Second Image:
+![2](https://user-images.githubusercontent.com/76450122/193337443-48fac0d7-172b-43f1-ba84-5d6def1f5c47.jpg)
